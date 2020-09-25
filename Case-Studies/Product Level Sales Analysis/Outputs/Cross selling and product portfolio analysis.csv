@@ -1,0 +1,4 @@
+primary_product_id,orders,x_sell_prod1,x_sell_prod2,x_sell_prod3,x_sell_prod1_rt,x_sell_prod2_rt,x_sell_prod3_rt
+1,731,0,39,68,0.0000,0.0534,0.0930
+2,144,5,0,5,0.0347,0.0000,0.0347
+3,126,10,3,0,0.0794,0.0238,0.0000

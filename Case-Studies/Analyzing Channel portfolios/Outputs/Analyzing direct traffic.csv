@@ -1,0 +1,8 @@
+channel_group,utm_source,utm_campaign,http_referer
+paid_nonbrand,gsearch,nonbrand,https://www.gsearch.com
+direct_type_in,NULL,NULL,NULL
+paid_brand,gsearch,brand,https://www.gsearch.com
+organic_search,NULL,NULL,https://www.gsearch.com
+paid_brand,bsearch,brand,https://www.bsearch.com
+organic_search,NULL,NULL,https://www.bsearch.com
+paid_nonbrand,bsearch,nonbrand,https://www.bsearch.com
